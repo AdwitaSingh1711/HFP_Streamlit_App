@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Heart Health</h1>
-  <h3>An early-insight into potential heart </h3>
+  <h3>An early-insight into potential heart failure</h3>
 </div>
 
 ## Images
