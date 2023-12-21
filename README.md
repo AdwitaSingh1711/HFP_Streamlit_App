@@ -16,3 +16,12 @@
 - [Streamlit](https://docs.streamlit.io/) – framework
 - [Replit](https://replit.com/) – hosting
 - Various Machine Learning Algorithms
+
+## Contributors
+
+| S.No | Github ID                                          | Contribution                 |
+| ---- | -------------------------------------------------- | ---------------------------- |
+| 1.   | [Mridu Pant](https://github.com/mridu-pant)        | Frontend and Flutter Backend |
+| 2.   | [Adwita Singh](https://github.com/AdwitaSingh1711) | ML Backend                   |
+| 3.   | Yashika Nijhawan                                   | Frontend                     |
+| 4.   | Akshita                                            | Frontend                     |
